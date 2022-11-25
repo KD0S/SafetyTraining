@@ -1,4 +1,4 @@
-# Fire Safety Training 
+# Fire Safety Training 🔥
 
 An immersive FPS experience for Simulating Fire Safety training in a realistic setting.
 
