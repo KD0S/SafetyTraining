@@ -4,7 +4,7 @@ An immersive FPS experience for Simulating Fire Safety training in a realistic s
 
 ## Tools used 
 
-* Unity :unity
+* Unity 
 * Blender
 * Visual Studio Code
 
